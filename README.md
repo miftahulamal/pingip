@@ -1,0 +1,2 @@
+# pingip
+PingIp
